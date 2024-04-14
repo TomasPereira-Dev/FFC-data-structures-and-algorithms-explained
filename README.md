@@ -6,3 +6,14 @@
 ## 2/5 - Roman Numeral Converter
 
 ## 3/5 - US Phone Number Validator 
+
+## 4/5 - Cash Register.
+
+## 5/5 - Pokemon App.  
+
+## Extras
+
+## Algorithms
+
+## Data Structures
+
